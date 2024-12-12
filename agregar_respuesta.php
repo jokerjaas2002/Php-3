@@ -13,3 +13,4 @@ print "Estamos en mantenimiento";
 }
 ?>
 <meta http-equiv="refresh" content="2;URL=temas.php?cual=<?php print $_POST['oculto']; ?>" />
+
